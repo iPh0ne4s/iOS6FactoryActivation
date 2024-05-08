@@ -1,5 +1,5 @@
 # iOS6FactoryActivation
-Factory activate iOS 6 iDevices.
+Untethered factory activate iOS 6 iDevices.
 
 ## Usage
 * SSH into target iDevice.
